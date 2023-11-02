@@ -1,0 +1,25 @@
+-- Install configuration: ""
+-- Up-to-date: /home/tanaybensu/ros2_ws/install/assignment1/share/assignment1/environment/pythonpath.sh
+-- Up-to-date: /home/tanaybensu/ros2_ws/install/assignment1/share/assignment1/environment/pythonpath.dsv
+-- Up-to-date: /home/tanaybensu/ros2_ws/install/assignment1/lib/python3.8/site-packages/assignment1
+-- Up-to-date: /home/tanaybensu/ros2_ws/install/assignment1/lib/python3.8/site-packages/assignment1/__init__.py
+Listing '/home/tanaybensu/ros2_ws/install/assignment1/lib/python3.8/site-packages/assignment1'...
+-- Up-to-date: /home/tanaybensu/ros2_ws/install/assignment1/lib/assignment1/cleaner.py
+-- Up-to-date: /home/tanaybensu/ros2_ws/install/assignment1/lib/assignment1/tracker.py
+-- Up-to-date: /home/tanaybensu/ros2_ws/install/assignment1/share/assignment1//launch
+-- Up-to-date: /home/tanaybensu/ros2_ws/install/assignment1/share/assignment1//launch/assignment1.launch.py
+-- Up-to-date: /home/tanaybensu/ros2_ws/install/assignment1/share/ament_index/resource_index/package_run_dependencies/assignment1
+-- Up-to-date: /home/tanaybensu/ros2_ws/install/assignment1/share/ament_index/resource_index/parent_prefix_path/assignment1
+-- Up-to-date: /home/tanaybensu/ros2_ws/install/assignment1/share/assignment1/environment/ament_prefix_path.sh
+-- Up-to-date: /home/tanaybensu/ros2_ws/install/assignment1/share/assignment1/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/tanaybensu/ros2_ws/install/assignment1/share/assignment1/environment/path.sh
+-- Up-to-date: /home/tanaybensu/ros2_ws/install/assignment1/share/assignment1/environment/path.dsv
+-- Up-to-date: /home/tanaybensu/ros2_ws/install/assignment1/share/assignment1/local_setup.bash
+-- Up-to-date: /home/tanaybensu/ros2_ws/install/assignment1/share/assignment1/local_setup.sh
+-- Up-to-date: /home/tanaybensu/ros2_ws/install/assignment1/share/assignment1/local_setup.zsh
+-- Up-to-date: /home/tanaybensu/ros2_ws/install/assignment1/share/assignment1/local_setup.dsv
+-- Up-to-date: /home/tanaybensu/ros2_ws/install/assignment1/share/assignment1/package.dsv
+-- Up-to-date: /home/tanaybensu/ros2_ws/install/assignment1/share/ament_index/resource_index/packages/assignment1
+-- Up-to-date: /home/tanaybensu/ros2_ws/install/assignment1/share/assignment1/cmake/assignment1Config.cmake
+-- Up-to-date: /home/tanaybensu/ros2_ws/install/assignment1/share/assignment1/cmake/assignment1Config-version.cmake
+-- Up-to-date: /home/tanaybensu/ros2_ws/install/assignment1/share/assignment1/package.xml

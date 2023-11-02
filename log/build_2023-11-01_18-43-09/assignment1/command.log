@@ -1,0 +1,6 @@
+Invoking command in '/home/tanaybensu/ros2_ws/build/assignment1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/tanaybensu/ros2_ws/src/assignment1 -DCMAKE_INSTALL_PREFIX=/home/tanaybensu/ros2_ws/install/assignment1
+Invoked command in '/home/tanaybensu/ros2_ws/build/assignment1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/tanaybensu/ros2_ws/src/assignment1 -DCMAKE_INSTALL_PREFIX=/home/tanaybensu/ros2_ws/install/assignment1
+Invoking command in '/home/tanaybensu/ros2_ws/build/assignment1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/tanaybensu/ros2_ws/build/assignment1 -- -j8 -l8
+Invoked command in '/home/tanaybensu/ros2_ws/build/assignment1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/tanaybensu/ros2_ws/build/assignment1 -- -j8 -l8
+Invoking command in '/home/tanaybensu/ros2_ws/build/assignment1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/tanaybensu/ros2_ws/build/assignment1
+Invoked command in '/home/tanaybensu/ros2_ws/build/assignment1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/tanaybensu/ros2_ws/build/assignment1
